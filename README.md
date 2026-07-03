@@ -1,6 +1,6 @@
 # p4-code-review
 
-Automated code review for **Perforce changelists**, using multiple specialized agents with
+Automated code review for **Perforce changelists**, using multiple specialized Claude Code agents with
 confidence-based scoring. It drives the [`p4mcp-server`] tools and  Swarm reviews.
 
 ## What it does
